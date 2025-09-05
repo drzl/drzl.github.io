@@ -1,6 +1,6 @@
 {
   "status": "inactive",
   "message": "Нет связи с облаком Бизнес Пака. Скорее всего проблема на вашем компьютере",
-  "link": "https://pvision.ru/bp/faq?4009#4009"
-  "comment": "До основного сервера связи нет, а до sync.bp375.ru есть"
+  "link": "https://pvision.ru/bp/faq?4009#4009",
+  "_comment": "До основного сервера связи нет, а до sync.bp375.ru есть"
 }
